@@ -15,7 +15,7 @@
             identityTokenType : "JWT", 
 
             //identityToken :"{The JWT token key value that we created in Stage 4}"
-            identityToken:"eyJraWQiOiIxMjM0NSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJ0ZXN0SXNzdWVyIiwic3ViIjoia3NpbGxhQHNhbGVzZm9yY2UuY29tIiwiZXhwIjoxNzM1MjE4Nzg0LCJpYXQiOjE3MzUyMTI3ODR9.hv2SRfFIpKUwZ6r_hcSNqPFnj8pbkKDsFNtSKaJ4RMWjMK2CgC3GGwGxXDLWSbPwRVtemokTCjNPYyZr3RV30BpYUql2ESLcgqeB4WalUOy5cmoTulqXyGX1XcCddI7TCy0S1HAyuAzlZ1aOeLVtrDp9094AOQMlXHQkVd91tMTDyrbslqDBnE_4ULaHhGk7eE92gYlM8DQyFyRwVHlj2uVgRYqTjEx3X5pOLPXSJi0suoJsW7RtycqZrRgkfm0n8AIntPOSRR_LfNiNz2fszzvwF0yaDg52-6kxo_76wK0VP5Y6kwgKwyaCwqL7Hy2Vo5GvCgbv4fBoEPT_Mp46wg"
+            identityToken:"eyJraWQiOiIxMjM0NSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJ0ZXN0SXNzdWVyIiwic3ViIjoia3NpbGxhQHNhbGVzZm9yY2UxLmNvbSIsImV4cCI6MTczNTIxODc4NCwiaWF0IjoxNzM1MjEyNzg0fQ.nDSY2eTyYpWx2Vl7bXLV2cpkuGuhO_PxPGiUu-v9Y-8Zsi4sCZeI0JwK0og4pBg1hP5EpntOKGfYEdytzTyJJrVz3XEuyiAILTkY_VvMa5yECkgp9ShuzZYvsdcDrjSd4-PDmv1GLlTpcZjGEKYQ24TQ8PTDyIziTPvMB5fiKwuz9EMEtaWl2e9gSwybzSpOJIdUqemoMk6GxyF4rpqbLZ4GArw7Ijnj815vwLqBfk6Kgds0P1o0LhXzDjYg682anWlveM_AA8xdBvUGPoaYk_4IqP08lt0qLvIs8o1OEcdVRjgUw8-60zo8ECJTunrZyMm8PQ2rqbepz6kk8zmQMw"
             });
         });
 			embeddedservice_bootstrap.init(
